@@ -36,7 +36,7 @@ cd /usr/share/plymouth/themes
 2. Clone this repo!
 
 ```
-git clone https://github.com/dreamsmasher/Arch-Wireframe-Plymouth-Theme arch-wireframe
+git clone https://github.com/dreamsmasher/arch-wireframe-plymouth-theme-1366 arch-wireframe
 ```
 
 3. Set arch-wireframe as your default theme:
